@@ -1,0 +1,8 @@
+name: "ryan-peterson-website"
+navbar:
+  title: "Ryan A. Peterson"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
