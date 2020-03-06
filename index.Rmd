@@ -1,5 +1,9 @@
 ---
 title: "Ryan A. Peterson"
 ---
-    
-Hello world!
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/pic-of-me.jpg" style="width:25%; margin-right: 20px" align="left">
+
+This is my website, and I need to update this part of it for sure. i

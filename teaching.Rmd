@@ -1,0 +1,6 @@
+---
+title: "My Teaching"
+output: html_document
+---
+
+I teach about lots of things and stuff. 
