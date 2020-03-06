@@ -1,6 +1,17 @@
 ---
-title: "My Teaching"
+title: "Courses/Teaching"
 output: html_document
 ---
 
-I teach about lots of things and stuff. 
+## University of Iowa, Department of Biostatistics, Iowa City, IA
+
+- Course Instructor, Introduction to Biostatistics (2015 & 2018)
+- Graduate Teaching Assistant, Categorical Data Analysis (2018)
+- Graduate Teaching Assistant, Introduction to Biostatistics	(2014 – 2015)	 
+
+
+
+## St. Olaf College, Northfield, MN
+
+- Math Clinic Tutor, Academic Support Center (2013)
+- Teaching Assistant, Game Theory	(2012)

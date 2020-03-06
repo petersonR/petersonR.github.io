@@ -3,4 +3,23 @@ title: "Selected Presentations"
 output: html_document
 ---
 
-I work on lots of things and stuff and present about it. 
+- Ryan Peterson and Alex Kaiser. Predictive Modeling:  From Simple to Complex and Transparent to Opaque, A Debate of Two Extremes. Departmental Seminar, Department of Biostatistics & Informatics, Colorado School of Public Health, University of Colorado Anschutz Medical Campus, Aurora, CO. November 2019.   
+
+- Ryan Peterson and Joseph Cavanaugh. Ranked Sparsity Methods for Transparent Model Selection. Joint Statistical Meetings, Vancover, British Columbia, Canada. August 2018. (SPEED presentation, funded by Advancing Graduate Student Success Award)
+
+- Ryan Peterson, Brandon Butcher, Stephanie Lussier, Brian Smith. Prediction-guided Inference in Statistical and Machine-Learning Models for the Progression of Parkinson’s Disease. Conference on Predictive Inference, Ames, IA. May 2018. (contributed poster; received NSF student travel grant)
+
+- Ryan Peterson, Jennifer Le-Rademacher, Sumithra Mandrekar, Terry Therneau. Power and Type I Error Rate Estimation via Simulation for Multistate Endpoints; an Introduction to MSDshiny. College of Public Health Research Week Poster Competition, Iowa City, IA. April 2018. (contributed poster; received college-wide Student Poster Award)
+
+- Ryan Peterson, Jennifer Le-Rademacher, Sumithra Mandrekar, Terry Therneau. Power and Type I Error Rate Estimation via Simulation for Multistate Endpoints; an Introduction to MSDshiny. Eastern North American Region Spring Meeting, Atlanta, GA. March 2018. (contributed poster)
+
+- Ryan Peterson. (The Making of) The Multistate Simulation Designer: Tips, tricks, and extensions for designing user-friendly shiny apps. SUMIT Seminar, Mayo Clinic. Rochester, MN. August 2017. (invited oral presentation)
+
+- Ryan Peterson. Multistate Modeling in Clinical Trials: how to plan, power, and analyze multistate studies using the Multistate Simulation Designer. Cancer Center Statistics Special Topics Seminar, Mayo Clinic. Rochester, MN. September 2017. (invited oral presentation)
+
+- Ryan Peterson, Brandon Butcher, Stephanie Lussier, Brian Smith. Parkinson’s Progression Markers Initiative: filtering noisy outcomes and prediction-guided inference. Preceptorship Presentation, University of Iowa.  Iowa City, IA. December 2016.
+
+- Ryan Peterson, Matthew Hultgren, Andrew Switzer. Drivers of increasing student tuition price for private non-profit liberal arts colleges. National Conferences on Undergraduate Research, University of Kentucky. Lexington, KY. April 2014. (contributed poster)
+
+- Ryan Peterson, Ashley Hodgson. The effect of a California nursing/patient ratio mandate on patient treatment patterns. Social Sciences Conference, St. Olaf College. Northfield, MN. February 2013. (invited oral presentation)
+

@@ -3,4 +3,37 @@ title: "My Research"
 output: html_document
 ---
 
-I work on lots of things and stuff. 
+## Research Interests
+
+- Model Selection
+- High-Dimensional Regression Methods
+- Predictive Inference and Machine Learning
+- Classificatory Random Forests
+- Multistate Modeling and Survival Analysis
+- Methods for Missing Data Imputation
+- Simulation Optimization for Clinical Trials
+
+## Publications
+
+- Aaron Miller, Ryan Peterson, Inder Singh, Sarah Pilewski, Philip Polgreen (2019). Improving State-Level Influenza Surveillance by Incorporating Real-Time Smartphone-Connected Thermometer Readings Across Different Geographic Domains. Open Forum Infectious Diseases, 6:11.
+
+- Kirstin Manges, Patricia Groves, Amany Farag, Ryan Peterson, Joanna Harton, Ryan Greysen (2019). A Mixed Methods Study Examining Teamwork Shared Mental Models of Interprofessional Teams During Hospital Discharge. BMJ Quality & Safety. 
+
+- Ryan Peterson, Joseph Cavanaugh (2019). Discussion of prior-based Bayesian information criterion (PBIC) by M.J. Bayarria, James O. Berger, Woncheol Jang, Surajit Ray, Luis R. Pericchi, and Ingmar Visser. Statistical Theory and Related Fields, 3:1, 32-34.
+
+- Ryan Peterson, Joseph Cavanaugh (2019). Ordered Quantile Normalization: A Semiparametric Transformation Built for the Cross-Validation Era. Journal of Applied Statistics, 1-16.
+
+- Jennifer Le-Rademacher, Ryan Peterson, Terry Therneau, Ben Sanford, Richard Stone, Sumithra Mandrekar (2018). Using Multistate Models in Cancer Clinical Trials. Clinical Trials, 15(5), 489-498.
+
+- Ryan Peterson, Linnea Polgreen, Daniel Sewell, Philip Polgreen (2017). Warmer Weather as a Risk Factor for Cellulitis: A Population-based Investigation. Clinical Infectious Diseases, 487.
+
+- Ryan Peterson, Linnea Polgreen, Joseph Cavanaugh, Philip Polgreen (2017). Increasing Incidence, Cost, and Seasonality in Patients Hospitalized for Cellulitis. Open Forum Infectious Diseases, 4.
+
+- Chris Anthony, Ryan Peterson, Daniel Sewell, Linnea Polgreen, Jacob Simmering, John Callaghan, Philip Polgreen (2017). The Seasonal Variability of Surgical Site Infections in Knee and Hip Arthroplasty. The Journal of Arthroplasty, 33, 510 - 514.e1.
+
+- Chris Anthony, Ryan Peterson, Linnea Polgreen, Daniel Sewell, Philip Polgreen (2017). The Seasonal Variability in Surgical Site Infections and the Association With Warmer Weather: A Population-Based Investigation. Infection Control & Hospital Epidemiology, 38, no. 7: 809–16.
+
+- Roula Zahr, Ryan Peterson, Linnea Polgreen, Joseph Cavanaugh, Douglas Hornick, Kevin Winthrop, Philip Polgreen (2016).  Diabetes as an increasingly common comorbidity among patient hospitalizations for tuberculosis in the USA. BMJ Open Diabetes Research & Care, 4:1.
+
+- Ashley Hodgson, Dorothy Morgan, Ryan Peterson (2016).  Does better nurse staffing improve detection of depression and anxiety as secondary conditions in hospitalized patients with pneumonia? Nursing Economic$, 34(3): 134-43.
+

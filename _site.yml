@@ -22,5 +22,5 @@ navbar:
       href: https://www.linkedin.com/in/ryan-peterson-b9234b68/
 output:
   html_document:
-    theme: paper
+    theme: yeti
     css: 'styles.css'
