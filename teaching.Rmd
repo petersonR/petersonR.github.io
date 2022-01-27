@@ -3,13 +3,16 @@ title: "Courses/Teaching"
 output: html_document
 ---
 
+## University of Colorado, Department of Biostatistics & Informatics, Aurora, CO
+
+- Statistical Consulting I (BIOS 6621) 2020-2022
+- Applied Biostatistics II (BIOS 6602) 2021-2022
+
 ## University of Iowa, Department of Biostatistics, Iowa City, IA
 
 - Course Instructor, Introduction to Biostatistics (2015 & 2018)
 - Graduate Teaching Assistant, Categorical Data Analysis (2018)
 - Graduate Teaching Assistant, Introduction to Biostatistics	(2014 – 2015)	 
-
-
 
 ## St. Olaf College, Northfield, MN
 

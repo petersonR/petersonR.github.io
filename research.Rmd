@@ -15,6 +15,16 @@ output: html_document
 
 ## Publications
 
+- Ryan Peterson, Joseph Cavanaugh. Ranked sparsity: a cogent regularization framework for selecting and estimating feature interactions and polynomials. AStA Advances in Statistical Analysis (2022). https://doi.org/10.1007/s10182-021-00431-7
+
+- Ryan Peterson (2021). Finding Optimal Normalizing Transformations via bestNormalize. The R Journal. 13(1): 310-329.
+
+- Alyse Winchester, Ryan Peterson, Ellison Carter, Mary Sammel (2021). Impact of COVID-19 Social Distancing Policies on Traffic Congestion, Mobility, and NO2 Pollution. Sustainability. 13(13): 7275.
+
+- Richard Broadhurst, Ryan Peterson, …, Fernando Holguin (2020). Asthma in COVID-19 Hospitalizations: An Overestimated Risk Factor? Ann Am Thorac Soc, (12):1645-1648. 
+
+- Ryan Peterson (2020). A Simple Aggregation Rule for Penalized Regression Coefficients after Multiple Imputation. Journal of Data Science. 19(1): 1-14. 
+
 - Aaron Miller, Ryan Peterson, Inder Singh, Sarah Pilewski, Philip Polgreen (2019). Improving State-Level Influenza Surveillance by Incorporating Real-Time Smartphone-Connected Thermometer Readings Across Different Geographic Domains. Open Forum Infectious Diseases, 6:11.
 
 - Kirstin Manges, Patricia Groves, Amany Farag, Ryan Peterson, Joanna Harton, Ryan Greysen (2019). A Mixed Methods Study Examining Teamwork Shared Mental Models of Interprofessional Teams During Hospital Discharge. BMJ Quality & Safety. 
@@ -37,3 +47,14 @@ output: html_document
 
 - Ashley Hodgson, Dorothy Morgan, Ryan Peterson (2016).  Does better nurse staffing improve detection of depression and anxiety as secondary conditions in hospitalized patients with pneumonia? Nursing Economic$, 34(3): 134-43.
 
+# Awards
+
+- Best Paper Award, Journal of Applied Statistics, 2020
+- ACTStat Early Career Award in Clinical and Translational Science 2021
+- Best Poster Award, International Biometric Conference 2020 (Virtual)
+- Milford E. Barnes Award, University of Iowa, 2019
+- College of Public Health Board of Advisors Academic Award, University of Iowa, 2018
+- Leon F. Burmeister Graduate Service Award, University of Iowa, 2018
+- College of Public Health Research Week Poster Award, University of Iowa, 2018
+- Advancing Graduate Student Success Award, University of Iowa, 2018 
+- William R. Clarke Graduate Research Assistant Award, University of Iowa, 2017

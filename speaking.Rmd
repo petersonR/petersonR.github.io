@@ -3,6 +3,14 @@ title: "Selected Presentations"
 output: html_document
 ---
 
+- Ryan Peterson. Penalized Regression and Multiple Imputation: A Simple Aggregation Rule That Works Surprisingly Well. Joint Statistical Meetings, Virtual Conference, 2021. (Contributed presentation)
+
+- Ryan Peterson. Aggregating penalized regression coefficients after multiple imputation for urgent and effective prediction of intubation in patients with severe COVID-19. ACTStat 2021 (invited presentation as Early Career Award winner). 
+
+- Ryan Peterson. “But what about interactions, are any of those significant?” Resolving the collaborative nightmare of covariate interactions using regularization. International Biometric Conference. Virtual conference, 2020. (Contributed poster; won Best Poster Award)  
+
+- Ryan Peterson. “But what about interactions, are any of those significant?” Resolving the collaborative nightmare of covariate interactions using regularization. Joint Statistical Meetings, Philadelphia, PA, USA. August 2020. (Contributed paper, presented virtually)
+
 - Ryan Peterson and Alex Kaiser. Predictive Modeling:  From Simple to Complex and Transparent to Opaque, A Debate of Two Extremes. Departmental Seminar, Department of Biostatistics & Informatics, Colorado School of Public Health, University of Colorado Anschutz Medical Campus, Aurora, CO. November 2019.   
 
 - Ryan Peterson and Joseph Cavanaugh. Ranked Sparsity Methods for Transparent Model Selection. Joint Statistical Meetings, Vancover, British Columbia, Canada. August 2018. (SPEED presentation, funded by Advancing Graduate Student Success Award)
