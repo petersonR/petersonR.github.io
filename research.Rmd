@@ -13,13 +13,19 @@ output: html_document
 - Methods for Missing Data Imputation
 - Simulation Optimization for Clinical Trials
 
-## Publications
+## Selected Publications
 
-- Ryan Peterson, Joseph Cavanaugh. Ranked sparsity: a cogent regularization framework for selecting and estimating feature interactions and polynomials. AStA Advances in Statistical Analysis (2022). https://doi.org/10.1007/s10182-021-00431-7
+Please [contact me](mailto:ryan.a.peterson@cuanschutz.edu) for PDF versions of any of the following selected papers:  
 
-- Ryan Peterson (2021). Finding Optimal Normalizing Transformations via bestNormalize. The R Journal. 13(1): 310-329.
+- Ryan Peterson, Camille Hochheimer, Gary Grunwald, Rachel Johnson, Cheyret Wood, Mary Sammel. Reaping what you SOW: Guidelines and Strategies for Writing Scopes of Work for Statistical Consulting. Stat. 2022;e496. [open access link](https://doi.org/10.1002/sta4.496)
 
-- Alyse Winchester, Ryan Peterson, Ellison Carter, Mary Sammel (2021). Impact of COVID-19 Social Distancing Policies on Traffic Congestion, Mobility, and NO2 Pollution. Sustainability. 13(13): 7275.
+- Matthew Bolt, Sam MaWhinney, Jack Pattee, ..., Ryan Peterson. Inference following multiple imputation for generalized additive models: an investigation of the median p-value rule with applications to the Pulmonary Hypertension Association Registry and Colorado COVID-19 hospitalization data. BMC Medical Research Methodology 22, 148 (2022). [open access link](https://doi.org/10.1186/s12874-022-01613-w)
+
+- Ryan Peterson, Joseph Cavanaugh. Ranked sparsity: a cogent regularization framework for selecting and estimating feature interactions and polynomials. AStA Advances in Statistical Analysis (2022). https://doi.org/10.1007/s10182-021-00431-7 [preprint](https://arxiv.org/abs/2107.07594)
+
+- Ryan Peterson (2021). Finding Optimal Normalizing Transformations via bestNormalize. The R Journal. 13(1): 310-329. [open access link](https://journal.r-project.org/dev/articles/RJ-2021-041/)
+
+- Alyse Winchester (Staley), Ryan Peterson, Ellison Carter, Mary Sammel (2021). Impact of COVID-19 Social Distancing Policies on Traffic Congestion, Mobility, and NO2 Pollution. Sustainability. 13(13): 7275.[open access link](https://doi.org/10.3390/su13137275)
 
 - Richard Broadhurst, Ryan Peterson, …, Fernando Holguin (2020). Asthma in COVID-19 Hospitalizations: An Overestimated Risk Factor? Ann Am Thorac Soc, (12):1645-1648. 
 

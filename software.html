@@ -13,7 +13,7 @@
 
 <title>Open-source statistical software</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -235,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -297,11 +301,25 @@ $(document).ready(function () {
 
 
 <ul>
-<li><p>Estimating Optimal Normalization Transformations with bestNormalize. Available on <a href="https://cran.r-project.org/web/packages/bestNormalize/index.html">CRAN</a> and <a href="https://github.com/petersonR/bestNormalize">GitHub</a>.</p></li>
-<li><p>Ranked sparsity via sparseR. Available on <a href="https://github.com/petersonR/sparseR">GitHub</a>.</p></li>
-<li><p>The Multistate Simulation Designer; An Open-Source shiny Application. <a href="https://github.com/petersonR/MSDshiny">GitHub</a></p></li>
-<li><p>A Decision Support System for Parkinson’s Clinical Trials Design and shiny Application. This was joint work with Brian Smith, Brandon Butcher, and Stephanie Lussier for the Parkinson’s Progression Markers Initiative as a part of the Michael J. Fox Foundation’s 2016 data challenge). <a href="https://github.com/brian-j-smith/PPMIChallenge2016">GitHub</a></p></li>
-<li><p>Parkinson’s Disease Rate Predictor shiny Application. <a href="https://github.com/petersonR/PD_predictor">GitHub</a></p></li>
+<li><p>Estimating Optimal Normalization Transformations with
+bestNormalize. Available on <a
+href="https://cran.r-project.org/web/packages/bestNormalize/index.html">CRAN</a>
+and <a
+href="https://github.com/petersonR/bestNormalize">GitHub</a>.</p></li>
+<li><p>Ranked sparsity via sparseR. Available on <a
+href="https://cran.r-project.org/web/packages/sparseR/index.html">CRAN</a>
+or <a href="https://github.com/petersonR/sparseR">GitHub</a>.</p></li>
+<li><p>The Multistate Simulation Designer; An Open-Source shiny
+Application. <a
+href="https://github.com/petersonR/MSDshiny">GitHub</a></p></li>
+<li><p>A Decision Support System for Parkinson’s Clinical Trials Design
+and shiny Application. This was joint work with Brian Smith, Brandon
+Butcher, and Stephanie Lussier for the Parkinson’s Progression Markers
+Initiative as a part of the Michael J. Fox Foundation’s 2016 data
+challenge). <a
+href="https://github.com/brian-j-smith/PPMIChallenge2016">GitHub</a></p></li>
+<li><p>Parkinson’s Disease Rate Predictor shiny Application. <a
+href="https://github.com/petersonR/PD_predictor">GitHub</a></p></li>
 </ul>
 
 

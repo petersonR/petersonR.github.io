@@ -5,6 +5,7 @@ output: html_document
 
 ## University of Colorado, Department of Biostatistics & Informatics, Aurora, CO
 
+- Model Selection (PhD Elective) 2023
 - Statistical Consulting I (BIOS 6621) 2020-2022
 - Applied Biostatistics II (BIOS 6602) 2021-2022
 

@@ -13,7 +13,7 @@
 
 <title>My Research</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -235,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -308,39 +312,109 @@ $(document).ready(function () {
 <li>Simulation Optimization for Clinical Trials</li>
 </ul>
 </div>
-<div id="publications" class="section level2">
-<h2>Publications</h2>
+<div id="selected-publications" class="section level2">
+<h2>Selected Publications</h2>
+<p>Please <a href="mailto:ryan.a.peterson@cuanschutz.edu">contact me</a>
+for PDF versions of any of the following selected papers:</p>
 <ul>
-<li><p>Ryan Peterson, Joseph Cavanaugh. Ranked sparsity: a cogent regularization framework for selecting and estimating feature interactions and polynomials. AStA Advances in Statistical Analysis (2022). <a href="https://doi.org/10.1007/s10182-021-00431-7" class="uri">https://doi.org/10.1007/s10182-021-00431-7</a></p></li>
-<li><p>Ryan Peterson (2021). Finding Optimal Normalizing Transformations via bestNormalize. The R Journal. 13(1): 310-329.</p></li>
-<li><p>Alyse Winchester, Ryan Peterson, Ellison Carter, Mary Sammel (2021). Impact of COVID-19 Social Distancing Policies on Traffic Congestion, Mobility, and NO2 Pollution. Sustainability. 13(13): 7275.</p></li>
-<li><p>Richard Broadhurst, Ryan Peterson, …, Fernando Holguin (2020). Asthma in COVID-19 Hospitalizations: An Overestimated Risk Factor? Ann Am Thorac Soc, (12):1645-1648.</p></li>
-<li><p>Ryan Peterson (2020). A Simple Aggregation Rule for Penalized Regression Coefficients after Multiple Imputation. Journal of Data Science. 19(1): 1-14.</p></li>
-<li><p>Aaron Miller, Ryan Peterson, Inder Singh, Sarah Pilewski, Philip Polgreen (2019). Improving State-Level Influenza Surveillance by Incorporating Real-Time Smartphone-Connected Thermometer Readings Across Different Geographic Domains. Open Forum Infectious Diseases, 6:11.</p></li>
-<li><p>Kirstin Manges, Patricia Groves, Amany Farag, Ryan Peterson, Joanna Harton, Ryan Greysen (2019). A Mixed Methods Study Examining Teamwork Shared Mental Models of Interprofessional Teams During Hospital Discharge. BMJ Quality &amp; Safety.</p></li>
-<li><p>Ryan Peterson, Joseph Cavanaugh (2019). Discussion of prior-based Bayesian information criterion (PBIC) by M.J. Bayarria, James O. Berger, Woncheol Jang, Surajit Ray, Luis R. Pericchi, and Ingmar Visser. Statistical Theory and Related Fields, 3:1, 32-34.</p></li>
-<li><p>Ryan Peterson, Joseph Cavanaugh (2019). Ordered Quantile Normalization: A Semiparametric Transformation Built for the Cross-Validation Era. Journal of Applied Statistics, 1-16.</p></li>
-<li><p>Jennifer Le-Rademacher, Ryan Peterson, Terry Therneau, Ben Sanford, Richard Stone, Sumithra Mandrekar (2018). Using Multistate Models in Cancer Clinical Trials. Clinical Trials, 15(5), 489-498.</p></li>
-<li><p>Ryan Peterson, Linnea Polgreen, Daniel Sewell, Philip Polgreen (2017). Warmer Weather as a Risk Factor for Cellulitis: A Population-based Investigation. Clinical Infectious Diseases, 487.</p></li>
-<li><p>Ryan Peterson, Linnea Polgreen, Joseph Cavanaugh, Philip Polgreen (2017). Increasing Incidence, Cost, and Seasonality in Patients Hospitalized for Cellulitis. Open Forum Infectious Diseases, 4.</p></li>
-<li><p>Chris Anthony, Ryan Peterson, Daniel Sewell, Linnea Polgreen, Jacob Simmering, John Callaghan, Philip Polgreen (2017). The Seasonal Variability of Surgical Site Infections in Knee and Hip Arthroplasty. The Journal of Arthroplasty, 33, 510 - 514.e1.</p></li>
-<li><p>Chris Anthony, Ryan Peterson, Linnea Polgreen, Daniel Sewell, Philip Polgreen (2017). The Seasonal Variability in Surgical Site Infections and the Association With Warmer Weather: A Population-Based Investigation. Infection Control &amp; Hospital Epidemiology, 38, no. 7: 809–16.</p></li>
-<li><p>Roula Zahr, Ryan Peterson, Linnea Polgreen, Joseph Cavanaugh, Douglas Hornick, Kevin Winthrop, Philip Polgreen (2016). Diabetes as an increasingly common comorbidity among patient hospitalizations for tuberculosis in the USA. BMJ Open Diabetes Research &amp; Care, 4:1.</p></li>
-<li><p>Ashley Hodgson, Dorothy Morgan, Ryan Peterson (2016). Does better nurse staffing improve detection of depression and anxiety as secondary conditions in hospitalized patients with pneumonia? Nursing Economic$, 34(3): 134-43.</p></li>
+<li><p>Ryan Peterson, Camille Hochheimer, Gary Grunwald, Rachel Johnson,
+Cheyret Wood, Mary Sammel. Reaping what you SOW: Guidelines and
+Strategies for Writing Scopes of Work for Statistical Consulting. Stat.
+2022;e496. <a href="https://doi.org/10.1002/sta4.496">open access
+link</a></p></li>
+<li><p>Matthew Bolt, Sam MaWhinney, Jack Pattee, …, Ryan Peterson.
+Inference following multiple imputation for generalized additive models:
+an investigation of the median p-value rule with applications to the
+Pulmonary Hypertension Association Registry and Colorado COVID-19
+hospitalization data. BMC Medical Research Methodology 22, 148 (2022).
+<a href="https://doi.org/10.1186/s12874-022-01613-w">open access
+link</a></p></li>
+<li><p>Ryan Peterson, Joseph Cavanaugh. Ranked sparsity: a cogent
+regularization framework for selecting and estimating feature
+interactions and polynomials. AStA Advances in Statistical Analysis
+(2022). <a href="https://doi.org/10.1007/s10182-021-00431-7"
+class="uri">https://doi.org/10.1007/s10182-021-00431-7</a> <a
+href="https://arxiv.org/abs/2107.07594">preprint</a></p></li>
+<li><p>Ryan Peterson (2021). Finding Optimal Normalizing Transformations
+via bestNormalize. The R Journal. 13(1): 310-329. <a
+href="https://journal.r-project.org/dev/articles/RJ-2021-041/">open
+access link</a></p></li>
+<li><p>Alyse Winchester (Staley), Ryan Peterson, Ellison Carter, Mary
+Sammel (2021). Impact of COVID-19 Social Distancing Policies on Traffic
+Congestion, Mobility, and NO2 Pollution. Sustainability. 13(13): 7275.<a
+href="https://doi.org/10.3390/su13137275">open access link</a></p></li>
+<li><p>Richard Broadhurst, Ryan Peterson, …, Fernando Holguin (2020).
+Asthma in COVID-19 Hospitalizations: An Overestimated Risk Factor? Ann
+Am Thorac Soc, (12):1645-1648.</p></li>
+<li><p>Ryan Peterson (2020). A Simple Aggregation Rule for Penalized
+Regression Coefficients after Multiple Imputation. Journal of Data
+Science. 19(1): 1-14.</p></li>
+<li><p>Aaron Miller, Ryan Peterson, Inder Singh, Sarah Pilewski, Philip
+Polgreen (2019). Improving State-Level Influenza Surveillance by
+Incorporating Real-Time Smartphone-Connected Thermometer Readings Across
+Different Geographic Domains. Open Forum Infectious Diseases,
+6:11.</p></li>
+<li><p>Kirstin Manges, Patricia Groves, Amany Farag, Ryan Peterson,
+Joanna Harton, Ryan Greysen (2019). A Mixed Methods Study Examining
+Teamwork Shared Mental Models of Interprofessional Teams During Hospital
+Discharge. BMJ Quality &amp; Safety.</p></li>
+<li><p>Ryan Peterson, Joseph Cavanaugh (2019). Discussion of prior-based
+Bayesian information criterion (PBIC) by M.J. Bayarria, James O. Berger,
+Woncheol Jang, Surajit Ray, Luis R. Pericchi, and Ingmar Visser.
+Statistical Theory and Related Fields, 3:1, 32-34.</p></li>
+<li><p>Ryan Peterson, Joseph Cavanaugh (2019). Ordered Quantile
+Normalization: A Semiparametric Transformation Built for the
+Cross-Validation Era. Journal of Applied Statistics, 1-16.</p></li>
+<li><p>Jennifer Le-Rademacher, Ryan Peterson, Terry Therneau, Ben
+Sanford, Richard Stone, Sumithra Mandrekar (2018). Using Multistate
+Models in Cancer Clinical Trials. Clinical Trials, 15(5),
+489-498.</p></li>
+<li><p>Ryan Peterson, Linnea Polgreen, Daniel Sewell, Philip Polgreen
+(2017). Warmer Weather as a Risk Factor for Cellulitis: A
+Population-based Investigation. Clinical Infectious Diseases,
+487.</p></li>
+<li><p>Ryan Peterson, Linnea Polgreen, Joseph Cavanaugh, Philip Polgreen
+(2017). Increasing Incidence, Cost, and Seasonality in Patients
+Hospitalized for Cellulitis. Open Forum Infectious Diseases, 4.</p></li>
+<li><p>Chris Anthony, Ryan Peterson, Daniel Sewell, Linnea Polgreen,
+Jacob Simmering, John Callaghan, Philip Polgreen (2017). The Seasonal
+Variability of Surgical Site Infections in Knee and Hip Arthroplasty.
+The Journal of Arthroplasty, 33, 510 - 514.e1.</p></li>
+<li><p>Chris Anthony, Ryan Peterson, Linnea Polgreen, Daniel Sewell,
+Philip Polgreen (2017). The Seasonal Variability in Surgical Site
+Infections and the Association With Warmer Weather: A Population-Based
+Investigation. Infection Control &amp; Hospital Epidemiology, 38, no. 7:
+809–16.</p></li>
+<li><p>Roula Zahr, Ryan Peterson, Linnea Polgreen, Joseph Cavanaugh,
+Douglas Hornick, Kevin Winthrop, Philip Polgreen (2016). Diabetes as an
+increasingly common comorbidity among patient hospitalizations for
+tuberculosis in the USA. BMJ Open Diabetes Research &amp; Care,
+4:1.</p></li>
+<li><p>Ashley Hodgson, Dorothy Morgan, Ryan Peterson (2016). Does better
+nurse staffing improve detection of depression and anxiety as secondary
+conditions in hospitalized patients with pneumonia? Nursing Economic$,
+34(3): 134-43.</p></li>
 </ul>
 </div>
 <div id="awards" class="section level1">
 <h1>Awards</h1>
 <ul>
 <li>Best Paper Award, Journal of Applied Statistics, 2020</li>
-<li>ACTStat Early Career Award in Clinical and Translational Science 2021</li>
-<li>Best Poster Award, International Biometric Conference 2020 (Virtual)</li>
+<li>ACTStat Early Career Award in Clinical and Translational Science
+2021</li>
+<li>Best Poster Award, International Biometric Conference 2020
+(Virtual)</li>
 <li>Milford E. Barnes Award, University of Iowa, 2019</li>
-<li>College of Public Health Board of Advisors Academic Award, University of Iowa, 2018</li>
-<li>Leon F. Burmeister Graduate Service Award, University of Iowa, 2018</li>
-<li>College of Public Health Research Week Poster Award, University of Iowa, 2018</li>
-<li>Advancing Graduate Student Success Award, University of Iowa, 2018</li>
-<li>William R. Clarke Graduate Research Assistant Award, University of Iowa, 2017</li>
+<li>College of Public Health Board of Advisors Academic Award,
+University of Iowa, 2018</li>
+<li>Leon F. Burmeister Graduate Service Award, University of Iowa,
+2018</li>
+<li>College of Public Health Research Week Poster Award, University of
+Iowa, 2018</li>
+<li>Advancing Graduate Student Success Award, University of Iowa,
+2018</li>
+<li>William R. Clarke Graduate Research Assistant Award, University of
+Iowa, 2017</li>
 </ul>
 </div>
 

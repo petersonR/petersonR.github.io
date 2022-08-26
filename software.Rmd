@@ -5,7 +5,7 @@ output: html_document
 
 - Estimating Optimal Normalization Transformations with bestNormalize. Available on [CRAN](https://cran.r-project.org/web/packages/bestNormalize/index.html) and [GitHub](https://github.com/petersonR/bestNormalize).
 
-- Ranked sparsity via sparseR. Available on [GitHub](https://github.com/petersonR/sparseR).
+- Ranked sparsity via sparseR. Available on [CRAN](https://cran.r-project.org/web/packages/sparseR/index.html) or [GitHub](https://github.com/petersonR/sparseR).
 
 - The Multistate Simulation Designer; An Open-Source shiny Application. [GitHub](https://github.com/petersonR/MSDshiny)
 
