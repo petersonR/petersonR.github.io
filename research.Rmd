@@ -1,21 +1,23 @@
 ---
-title: "My Research"
+title: "Research"
 output: html_document
 ---
 
 ## Research Interests
 
 - Model Selection
-- High-Dimensional Regression Methods
-- Predictive Inference and Machine Learning
-- Classificatory Random Forests
-- Multistate Modeling and Survival Analysis
-- Methods for Missing Data Imputation
-- Simulation Optimization for Clinical Trials
+- Post-Selection Inference
+- Data preprocessing and visualization
+-	Model Transparency
+-	High-Dimensional Regression Methods
+- Methods for Missing Data
+- Statistical Computing
 
 ## Selected Publications
 
 Please [contact me](mailto:ryan.a.peterson@cuanschutz.edu) for PDF versions of any of the following selected papers:  
+
+- Ryan Peterson, Joseph Cavanaugh (2023+). Fast, effective, and coherent time series modeling using the sparsity-ranked lasso. (in revision). [preprint](https://www.arxiv.org/pdf/2211.01492.pdf)
 
 - Ryan Peterson, Camille Hochheimer, Gary Grunwald, Rachel Johnson, Cheyret Wood, Mary Sammel. Reaping what you SOW: Guidelines and Strategies for Writing Scopes of Work for Statistical Consulting. Stat. 2022;e496. [open access link](https://doi.org/10.1002/sta4.496)
 

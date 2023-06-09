@@ -1,11 +1,11 @@
 ---
-title: About me
+title: About
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <img src="images/pic-of-me.jpg" style="width:20%; margin-right:20px" align="left">
 
-I am an Assistant Professor of Biostatistics and Informatics at the [Colorado School of Public Health](http://www.ucdenver.edu/academics/colleges/PublicHealth/Pages/default.aspx) on the [University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/). I work collaboratively within the [Center for Innovative Design and Analysis](cida.ucdenver.edu) as well as the [Pulmonary Translational Core](https://medschool.cuanschutz.edu/pulmonary/research/ptrac). 
+I am an Assistant Professor of Biostatistics and Informatics at the [Colorado School of Public Health](http://www.ucdenver.edu/academics/colleges/PublicHealth/Pages/default.aspx) on the [University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/). I work collaboratively within the [Center for Innovative Design and Analysis](cida.ucdenver.edu) and serve as the Director of the [Pulmonary Translational Biostatistics & Bioinformatics Core](https://medschool.cuanschutz.edu/pulmonary/research/ptrac). 
 
-Prior to my current appointment, I received my PhD from the University of Iowa in Biostatistics. My primary research interest relates to expanding model selection tools to be useful when searching for important statistical interactions and other derived variables in modeling contexts. The successful application of my methodology translates to predictive models that are more transparent than their black-box counterparts. In addition to model selection, I am also interested in the modeling of time-to-event or multi-state data, study design optimization, statistical computation, high-dimensional data analysis, data preprocessing and missing data methods. When I'm not researching, I enjoy attending live concerts, going out for pizza, and burning off the pizza calories while hiking or skiing in the mountains. 
+My methodological research interests include model selection, model transparency/interpretability, methods for missing data, statistical computation, data preprocessing, and post-selection inference. Additionally, I enjoy writing and thinking about best practices for statistical collaboration, and I have developed a curriculum for training the next generation of statistical consultants (see, for example [statCTR](https://www.statctr.com)). When I'm not researching or teaching, I enjoy attending live concerts, going out for pizza, and hiking in the mountains. 

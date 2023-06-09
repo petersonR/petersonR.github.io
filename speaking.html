@@ -13,7 +13,7 @@
 
 <title>Selected Presentations</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.22/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -301,71 +298,78 @@ $(document).ready(function () {
 
 
 <ul>
-<li><p>Ryan Peterson. Penalized Regression and Multiple Imputation: A
-Simple Aggregation Rule That Works Surprisingly Well. Joint Statistical
-Meetings, Virtual Conference, 2021. (Contributed presentation)</p></li>
-<li><p>Ryan Peterson. Aggregating penalized regression coefficients
-after multiple imputation for urgent and effective prediction of
-intubation in patients with severe COVID-19. ACTStat 2021 (invited
-presentation as Early Career Award winner).</p></li>
-<li><p>Ryan Peterson. “But what about interactions, are any of those
-significant?” Resolving the collaborative nightmare of covariate
-interactions using regularization. International Biometric Conference.
-Virtual conference, 2020. (Contributed poster; won Best Poster
-Award)</p></li>
-<li><p>Ryan Peterson. “But what about interactions, are any of those
-significant?” Resolving the collaborative nightmare of covariate
-interactions using regularization. Joint Statistical Meetings,
-Philadelphia, PA, USA. August 2020. (Contributed paper, presented
-virtually)</p></li>
-<li><p>Ryan Peterson and Alex Kaiser. Predictive Modeling: From Simple
-to Complex and Transparent to Opaque, A Debate of Two Extremes.
-Departmental Seminar, Department of Biostatistics &amp; Informatics,
-Colorado School of Public Health, University of Colorado Anschutz
-Medical Campus, Aurora, CO. November 2019.</p></li>
-<li><p>Ryan Peterson and Joseph Cavanaugh. Ranked Sparsity Methods for
-Transparent Model Selection. Joint Statistical Meetings, Vancover,
-British Columbia, Canada. August 2018. (SPEED presentation, funded by
-Advancing Graduate Student Success Award)</p></li>
-<li><p>Ryan Peterson, Brandon Butcher, Stephanie Lussier, Brian Smith.
-Prediction-guided Inference in Statistical and Machine-Learning Models
-for the Progression of Parkinson’s Disease. Conference on Predictive
-Inference, Ames, IA. May 2018. (contributed poster; received NSF student
-travel grant)</p></li>
-<li><p>Ryan Peterson, Jennifer Le-Rademacher, Sumithra Mandrekar, Terry
-Therneau. Power and Type I Error Rate Estimation via Simulation for
-Multistate Endpoints; an Introduction to MSDshiny. College of Public
-Health Research Week Poster Competition, Iowa City, IA. April 2018.
-(contributed poster; received college-wide Student Poster
-Award)</p></li>
-<li><p>Ryan Peterson, Jennifer Le-Rademacher, Sumithra Mandrekar, Terry
-Therneau. Power and Type I Error Rate Estimation via Simulation for
-Multistate Endpoints; an Introduction to MSDshiny. Eastern North
-American Region Spring Meeting, Atlanta, GA. March 2018. (contributed
-poster)</p></li>
-<li><p>Ryan Peterson. (The Making of) The Multistate Simulation
-Designer: Tips, tricks, and extensions for designing user-friendly shiny
-apps. SUMIT Seminar, Mayo Clinic. Rochester, MN. August 2017. (invited
-oral presentation)</p></li>
-<li><p>Ryan Peterson. Multistate Modeling in Clinical Trials: how to
-plan, power, and analyze multistate studies using the Multistate
-Simulation Designer. Cancer Center Statistics Special Topics Seminar,
-Mayo Clinic. Rochester, MN. September 2017. (invited oral
-presentation)</p></li>
-<li><p>Ryan Peterson, Brandon Butcher, Stephanie Lussier, Brian Smith.
-Parkinson’s Progression Markers Initiative: filtering noisy outcomes and
-prediction-guided inference. Preceptorship Presentation, University of
-Iowa. Iowa City, IA. December 2016.</p></li>
-<li><p>Ryan Peterson, Matthew Hultgren, Andrew Switzer. Drivers of
-increasing student tuition price for private non-profit liberal arts
-colleges. National Conferences on Undergraduate Research, University of
-Kentucky. Lexington, KY. April 2014. (contributed poster)</p></li>
-<li><p>Ryan Peterson, Ashley Hodgson. The effect of a California
-nursing/patient ratio mandate on patient treatment patterns. Social
-Sciences Conference, St. Olaf College. Northfield, MN. February 2013.
-(invited oral presentation)</p></li>
+<li><p>Detecting Interactions in R. Invited speed talk, National Center
+for Health Statistics and the Center for Disease Control, Virtual, May
+2023.</p></li>
+<li><p>Successful Approaches to Teaching Statistical Consulting. Invited
+Panel Discussion led by Julia Sharp. The ASA Section on Teaching of
+Statistics in the Health Sciences Webinar, Virtual, May 2023. <a
+href="https://www.youtube.com/watch?v=sFCD6BE8aLk">Watch</a></p></li>
+<li><p>Selection tools for handling suspected signal heterogeneity in
+covariates with applications to interactions and high-dimensional time
+series, Invited Seminar, Department of Biostatistics and Data Science,
+Wake Forest University School of Medicine, March 2023.</p></li>
+<li><p>The Sparsity-Ranked Lasso, Invited Seminar, Department of
+Biostatistics and Informatics, University of Colorado, February
+2023.</p></li>
+<li><p>Reaping What You SOW, Invited Panel Session, Conference on
+Statistical Practice, San Francisco, CA, February 2023.</p></li>
+<li><p>An Introduction to Biomedical Applications of Big Data, Machine
+Learning, and Artificial Intelligence. Invited Seminar. Big Data Seminar
+Series, Colorado Clinical and Translational Science Institute,
+University of Colorado, November 2022.</p></li>
+<li><p>Fast, effective, and coherent time series modeling with the
+sparsity-ranked lasso: the srlTS R package. ASA Colorado/Wyoming Chapter
+Annual Meeting. Aurora, CO. November 2022.</p></li>
+<li><p>Integrating public-use data for policy research: modeling
+city-specific trends in pollution and mobility through the COVID-19
+pandemic. ColoradoSPH Research Exchange, Aurora, CO. September
+2022.</p></li>
+<li><p>Can a new transparent algorithm predict better than its black-box
+counterparts? Symposium on Data Science and Statistics, Annual
+Conference, Pittsburgh, PA. June 2022.</p></li>
+<li><p>Aggregating penalized regression coefficients after multiple
+imputation for urgent and effective prediction of intubation in patients
+with severe COVID-19. ACTStat 2021 Annual Meeting, Virtual. Early Career
+Award winner.</p></li>
+<li><p>Penalized Regression and Multiple Imputation: A Simple
+Aggregation Rule That Works Surprisingly Well. Joint Statistical
+Meetings, Virtual Conference, 2021.</p></li>
+<li><p>“But what about interactions, are any of those significant?”
+Resolving the collaborative nightmare of covariate interactions using
+regularization. International Biometric Conference. Virtual conference,
+2020. (Contributed poster; won Best Poster Award)</p></li>
+<li><p>Predictive Modeling: From Simple to Complex and Transparent to
+Opaque, A Debate of Two Extremes. Department of Biostatistics &amp;
+Informatics, Colorado School of Public Health, University of Colorado,
+November 2019.</p></li>
+<li><p>Ranked Sparsity Methods for Transparent Model Selection. Joint
+Statistical Meetings, Vancouver, British Columbia, Canada. August
+2018.</p></li>
+<li><p>Multistate Modeling in Clinical Trials: how to plan, power, and
+analyze multistate studies using the Multistate Simulation Designer.
+Cancer Center Special Topics Seminar, Mayo Clinic, Rochester, MN,
+2017.</p></li>
+<li><p>Parkinson’s Progression Markers Initiative: filtering noisy
+outcomes and prediction-guided inference. Departmental Seminar,
+University of Iowa. Iowa City, IA. December 2016.</p></li>
 </ul>
 
+&nbsp;
+<hr />
+<p style="text-align: center;"> Last updated: June 2023 </p>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<p style="text-align: center;">
+    <a href="mailto:ryan.a.peterson@cuanschutz.edu" class="fa fa-envelope"></a>
+    <a href="https://twitter.com/ryan_peterson1" class="fa fa-twitter"></a>
+    <a href="https://www.linkedin.com/in/ryan-peterson-b9234b68/" class="fa fa-linkedin"></a>
+    <a href="https://github.com/petersonR/" class="fa fa-github"></a>
+</p>
+
+&nbsp;
 
 
 

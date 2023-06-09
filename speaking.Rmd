@@ -3,31 +3,36 @@ title: "Selected Presentations"
 output: html_document
 ---
 
-- Ryan Peterson. Penalized Regression and Multiple Imputation: A Simple Aggregation Rule That Works Surprisingly Well. Joint Statistical Meetings, Virtual Conference, 2021. (Contributed presentation)
+-	Detecting Interactions in R. Invited speed talk, National Center for Health Statistics and the Center for Disease Control, Virtual, May 2023. 
 
-- Ryan Peterson. Aggregating penalized regression coefficients after multiple imputation for urgent and effective prediction of intubation in patients with severe COVID-19. ACTStat 2021 (invited presentation as Early Career Award winner). 
+-	Successful Approaches to Teaching Statistical Consulting. Invited Panel Discussion led by Julia Sharp. The ASA Section on Teaching of Statistics in the Health Sciences Webinar, Virtual, May 2023. [Watch](https://www.youtube.com/watch?v=sFCD6BE8aLk)
 
-- Ryan Peterson. “But what about interactions, are any of those significant?” Resolving the collaborative nightmare of covariate interactions using regularization. International Biometric Conference. Virtual conference, 2020. (Contributed poster; won Best Poster Award)  
+- Selection tools for handling suspected signal heterogeneity in covariates with applications to interactions and high-dimensional time series, Invited Seminar, Department of Biostatistics and Data Science, Wake Forest University School of Medicine, March 2023.
 
-- Ryan Peterson. “But what about interactions, are any of those significant?” Resolving the collaborative nightmare of covariate interactions using regularization. Joint Statistical Meetings, Philadelphia, PA, USA. August 2020. (Contributed paper, presented virtually)
+-	The Sparsity-Ranked Lasso, Invited Seminar, Department of Biostatistics and Informatics, University of Colorado, February 2023. 
 
-- Ryan Peterson and Alex Kaiser. Predictive Modeling:  From Simple to Complex and Transparent to Opaque, A Debate of Two Extremes. Departmental Seminar, Department of Biostatistics & Informatics, Colorado School of Public Health, University of Colorado Anschutz Medical Campus, Aurora, CO. November 2019.   
+-	Reaping What You SOW, Invited Panel Session, Conference on Statistical Practice, San Francisco, CA, February 2023. 
 
-- Ryan Peterson and Joseph Cavanaugh. Ranked Sparsity Methods for Transparent Model Selection. Joint Statistical Meetings, Vancover, British Columbia, Canada. August 2018. (SPEED presentation, funded by Advancing Graduate Student Success Award)
+-	An Introduction to Biomedical Applications of Big Data, Machine Learning, and Artificial Intelligence. Invited Seminar. Big Data Seminar Series, Colorado Clinical and Translational Science Institute, University of Colorado, November 2022. 
 
-- Ryan Peterson, Brandon Butcher, Stephanie Lussier, Brian Smith. Prediction-guided Inference in Statistical and Machine-Learning Models for the Progression of Parkinson’s Disease. Conference on Predictive Inference, Ames, IA. May 2018. (contributed poster; received NSF student travel grant)
+- Fast, effective, and coherent time series modeling with the sparsity-ranked lasso: the srlTS R package. ASA Colorado/Wyoming Chapter Annual Meeting. Aurora, CO. November 2022. 
 
-- Ryan Peterson, Jennifer Le-Rademacher, Sumithra Mandrekar, Terry Therneau. Power and Type I Error Rate Estimation via Simulation for Multistate Endpoints; an Introduction to MSDshiny. College of Public Health Research Week Poster Competition, Iowa City, IA. April 2018. (contributed poster; received college-wide Student Poster Award)
+- Integrating public-use data for policy research: modeling city-specific trends in pollution and mobility through the COVID-19 pandemic. ColoradoSPH Research Exchange, Aurora, CO. September 2022.
 
-- Ryan Peterson, Jennifer Le-Rademacher, Sumithra Mandrekar, Terry Therneau. Power and Type I Error Rate Estimation via Simulation for Multistate Endpoints; an Introduction to MSDshiny. Eastern North American Region Spring Meeting, Atlanta, GA. March 2018. (contributed poster)
+- Can a new transparent algorithm predict better than its black-box counterparts? Symposium on Data Science and Statistics, Annual Conference, Pittsburgh, PA. June 2022. 
 
-- Ryan Peterson. (The Making of) The Multistate Simulation Designer: Tips, tricks, and extensions for designing user-friendly shiny apps. SUMIT Seminar, Mayo Clinic. Rochester, MN. August 2017. (invited oral presentation)
+-	Aggregating penalized regression coefficients after multiple imputation for urgent and effective prediction of intubation in patients with severe COVID-19. ACTStat 2021 Annual Meeting, Virtual. Early Career Award winner.
 
-- Ryan Peterson. Multistate Modeling in Clinical Trials: how to plan, power, and analyze multistate studies using the Multistate Simulation Designer. Cancer Center Statistics Special Topics Seminar, Mayo Clinic. Rochester, MN. September 2017. (invited oral presentation)
+-	Penalized Regression and Multiple Imputation: A Simple Aggregation Rule That Works Surprisingly Well. Joint Statistical Meetings, Virtual Conference, 2021.
 
-- Ryan Peterson, Brandon Butcher, Stephanie Lussier, Brian Smith. Parkinson’s Progression Markers Initiative: filtering noisy outcomes and prediction-guided inference. Preceptorship Presentation, University of Iowa.  Iowa City, IA. December 2016.
+- "But what about interactions, are any of those significant?" Resolving the collaborative nightmare of covariate interactions using regularization. International Biometric Conference. Virtual conference, 2020. (Contributed poster; won Best Poster Award)  
 
-- Ryan Peterson, Matthew Hultgren, Andrew Switzer. Drivers of increasing student tuition price for private non-profit liberal arts colleges. National Conferences on Undergraduate Research, University of Kentucky. Lexington, KY. April 2014. (contributed poster)
+-	Predictive Modeling:  From Simple to Complex and Transparent to Opaque, A Debate of Two Extremes. Department of Biostatistics & Informatics, Colorado School of Public Health, University of Colorado, November 2019. 
 
-- Ryan Peterson, Ashley Hodgson. The effect of a California nursing/patient ratio mandate on patient treatment patterns. Social Sciences Conference, St. Olaf College. Northfield, MN. February 2013. (invited oral presentation)
+- Ranked Sparsity Methods for Transparent Model Selection. Joint Statistical Meetings, Vancouver, British Columbia, Canada. August 2018. 
+
+-	Multistate Modeling in Clinical Trials: how to plan, power, and analyze multistate studies using the Multistate Simulation Designer. Cancer Center Special Topics Seminar, Mayo Clinic, Rochester, MN, 2017. 
+
+-	Parkinson’s Progression Markers Initiative: filtering noisy outcomes and prediction-guided inference. Departmental Seminar, University of Iowa. Iowa City, IA. December 2016.
+
 

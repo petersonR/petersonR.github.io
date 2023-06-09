@@ -11,9 +11,9 @@
 
 
 
-<title>About me</title>
+<title>About</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.22/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -295,7 +292,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About me</h1>
+<h1 class="title toc-ignore">About</h1>
 
 </div>
 
@@ -309,23 +306,34 @@ School of Public Health</a> on the <a
 href="https://www.cuanschutz.edu/">University of Colorado Anschutz
 Medical Campus</a>. I work collaboratively within the <a
 href="cida.ucdenver.edu">Center for Innovative Design and Analysis</a>
-as well as the <a
+and serve as the Director of the <a
 href="https://medschool.cuanschutz.edu/pulmonary/research/ptrac">Pulmonary
-Translational Core</a>.</p>
-<p>Prior to my current appointment, I received my PhD from the
-University of Iowa in Biostatistics. My primary research interest
-relates to expanding model selection tools to be useful when searching
-for important statistical interactions and other derived variables in
-modeling contexts. The successful application of my methodology
-translates to predictive models that are more transparent than their
-black-box counterparts. In addition to model selection, I am also
-interested in the modeling of time-to-event or multi-state data, study
-design optimization, statistical computation, high-dimensional data
-analysis, data preprocessing and missing data methods. When I’m not
-researching, I enjoy attending live concerts, going out for pizza, and
-burning off the pizza calories while hiking or skiing in the
-mountains.</p>
+Translational Biostatistics &amp; Bioinformatics Core</a>.</p>
+<p>My methodological research interests include model selection, model
+transparency/interpretability, methods for missing data, statistical
+computation, data preprocessing, and post-selection inference.
+Additionally, I enjoy writing and thinking about best practices for
+statistical collaboration, and I have developed a curriculum for
+training the next generation of statistical consultants (see, for
+example <a href="https://www.statctr.com">statCTR</a>). When I’m not
+researching or teaching, I enjoy attending live concerts, going out for
+pizza, and hiking in the mountains.</p>
 
+&nbsp;
+<hr />
+<p style="text-align: center;"> Last updated: June 2023 </p>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<p style="text-align: center;">
+    <a href="mailto:ryan.a.peterson@cuanschutz.edu" class="fa fa-envelope"></a>
+    <a href="https://twitter.com/ryan_peterson1" class="fa fa-twitter"></a>
+    <a href="https://www.linkedin.com/in/ryan-peterson-b9234b68/" class="fa fa-linkedin"></a>
+    <a href="https://github.com/petersonR/" class="fa fa-github"></a>
+</p>
+
+&nbsp;
 
 
 
