@@ -7,13 +7,11 @@ navbar:
       href: research.html
     - text: "Speaking"
       href: speaking.html
-    - text: "Software"
-      href: software.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Software"
+      href: software.html
   right:
-    - icon: fa-envelope fa-lg
-      href: mailto:ryan.a.peterson@cuanschutz.edu
     - icon: fa-github fa-lg
       href: http://github.com/petersonR
     - icon: fa-twitter fa-lg

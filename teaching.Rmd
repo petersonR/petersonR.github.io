@@ -1,22 +1,27 @@
 ---
 title: "Courses/Teaching"
 output: html_document
-date: "Date last updated: `r paste(format(Sys.Date(), '%B %d, %Y'))`"
 ---
 
-## University of Colorado, Department of Biostatistics & Informatics, Aurora, CO
+# Workshop
+
+I developed the material for and taught the second day of a 2-day workshop on Statistical Communication and Leadership. This two-day in-person workshop was delivered to an audience of about 40 post-graduate statisticians at the University of Michigan through the [ABS Network](https://absnetwork.org/). See the [ad](https://us12.campaign-archive.com/?e=__test_email__&u=76594bec23960643f372c1059&id=a989fbf721) for more details. 
+
+# Courses
+
+## University of Colorado, Department of Biostatistics & Informatics
 
 - Model Selection (PhD Elective) 2023
 - Statistical Consulting I (BIOS 6621) 2020-2023
 - Applied Biostatistics II (BIOS 6602) 2021-2022
 
-## University of Iowa, Department of Biostatistics, Iowa City, IA
+## University of Iowa, Department of Biostatistics
 
 - Course Instructor, Introduction to Biostatistics (2015 & 2018)
 - Graduate Teaching Assistant, Categorical Data Analysis (2018)
 - Graduate Teaching Assistant, Introduction to Biostatistics	(2014 – 2015)	 
 
-## St. Olaf College, Northfield, MN
+## St. Olaf College
 
 - Math Clinic Tutor, Academic Support Center (2013)
 - Teaching Assistant, Game Theory	(2012)

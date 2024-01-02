@@ -3,6 +3,10 @@ title: "Selected Presentations"
 output: html_document
 ---
 
+- Strategies for Successfully Scoping and Tracking Collaborative Statistical Work. Topic-contributed Panel at JSM 2023 with Alex Hanlon, Emily Griffith, Ryan Peterson, and Julia Sharp.
+
+- Working with statisticians: Perceptions of practicing statisticians on their most successful collaborations. ACTStat 2023. 
+
 -	Detecting Interactions in R. Invited speed talk, National Center for Health Statistics and the Center for Disease Control, Virtual, May 2023. 
 
 -	Successful Approaches to Teaching Statistical Consulting. Invited Panel Discussion led by Julia Sharp. The ASA Section on Teaching of Statistics in the Health Sciences Webinar, Virtual, May 2023. [Watch](https://www.youtube.com/watch?v=sFCD6BE8aLk)
