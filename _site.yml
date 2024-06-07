@@ -11,6 +11,8 @@ navbar:
       href: teaching.html
     - text: "Software"
       href: software.html
+    - text: "Other"
+      href: other.html
   right:
     - icon: fa-github fa-lg
       href: http://github.com/petersonR

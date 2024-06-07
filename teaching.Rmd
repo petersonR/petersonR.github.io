@@ -3,17 +3,40 @@ title: "Courses/Teaching"
 output: html_document
 ---
 
-# Workshop
+# Workshops 
 
-I developed the material for and taught the second day of a 2-day workshop on Statistical Communication and Leadership. This two-day in-person workshop was delivered to an audience of about 40 post-graduate statisticians at the University of Michigan through the [ABS Network](https://absnetwork.org/). See the [ad](https://us12.campaign-archive.com/?e=__test_email__&u=76594bec23960643f372c1059&id=a989fbf721) for more details. 
+- I developed the material for and taught the second day of a 2-day workshop on Statistical Communication and Leadership. This two-day in-person workshop was delivered to an audience of 42 collaborative biostatistician participants at the University of Michigan through the [ABS Network](https://absnetwork.org/). See the [ad](https://us12.campaign-archive.com/?e=__test_email__&u=76594bec23960643f372c1059&id=a989fbf721) for more details. 
+
+-	I led focus groups for "collaborator phenotyping" at the ACTStat 2022 Annual Meeting, developing and leading two 1.5-hour sessions with 25 participants. Washington, D.C., August 2022. These findings were later generalized and published [here](https://onlinelibrary.wiley.com/doi/10.1002/sta4.694). 
 
 # Courses
 
 ## University of Colorado, Department of Biostatistics & Informatics
 
-- Model Selection (PhD Elective) 2023
-- Statistical Consulting I (BIOS 6621) 2020-2023
-- Applied Biostatistics II (BIOS 6602) 2021-2022
+```{r, echo=FALSE}
+library(kableExtra)
+
+# Create the data frame
+df <- data.frame(
+  Course = c("Model Selection", "Statistical Consulting", "Applied Biostatistics II"),
+  "Year(s) Taught" = c("2023", "2020-2024", "2021-2022"),
+  "Course Number" = c("BIOS 7722 (PhD Elective)", "BIOS 6621", "BIOS 6602"),
+  Description = c(
+    "This course surveys methods for choosing an optimal statistical model in biostatistical and public health applications. Topics include: Occam’s Razor, information theoretic measures, asymptotic efficiency vs consistency, prediction vs description, overfitting, the bias/variance tradeoff, model evaluation, model validation, variable selection algorithms, model averaging/ensembles, and computer-intensive model evaluation.",
+    "Students gain experience with statistical consulting and common statistical problems encountered in consulting through examples and consultations with investigators. Emphasis is on methods for effective consulting and communication with investigators.",
+    "This course extends basic principles of descriptive and inferential statistics (BIOS 6601) to examine more complex relationships/models, including linear regression, logistic regression, model selection, survival analysis, and more."
+  ), 
+  check.names = FALSE
+)
+
+# Create the table
+kable(df, escape = FALSE, align = "cccl") %>%
+  kable_styling("condensed", full_width = FALSE) %>%
+  column_spec(1, width = "5em", bold = TRUE) %>%
+  column_spec(2, width = "7em") %>%
+  column_spec(3, width = "7em") %>%
+  column_spec(4, width = "30em")
+```
 
 ## University of Iowa, Department of Biostatistics
 

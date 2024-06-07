@@ -7,7 +7,7 @@ output: html_document
 
 - Ranked sparsity via `sparseR`. Available on [CRAN](https://cran.r-project.org/web/packages/sparseR/index.html) or [GitHub](https://github.com/petersonR/sparseR).
 
-- Fast seasonal time series modeling with `srlTS`. Available on [CRAN](https://cran.r-project.org/web/packages/srlTS/index.html) or [GitHub](https://github.com/petersonR/srlTS).
+- Fast seasonal time series modeling with `fastTS`. Available on [CRAN](https://cran.r-project.org/web/packages/srlTS/index.html) or [GitHub](https://github.com/petersonR/srlTS).
 
 - The Multistate Simulation Designer; An Open-Source `shiny` Application. [GitHub](https://github.com/petersonR/MSDshiny)
 
