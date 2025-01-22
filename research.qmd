@@ -1,0 +1,84 @@
+---
+title: "Research"
+output: html_document
+---
+
+## Research Interests
+
+- Model selection
+- Post-selection inference
+- Data preprocessing and visualization
+-	Transparent statistical and machine learning
+-	High-dimensional regression methods
+- Methods for missing data
+- Statistical computing
+- Best practices for interdisciplinary team science 
+
+## Selected Publications
+
+:::{.callout-note}
+My most up-to-date list of publications is available on my [ORCID](https://orcid.org/0000-0002-4650-5798) page or [Google Scholar](https://scholar.google.com/citations?user=Ikvj0XwAAAAJ). Please [contact me](mailto:ryan.a.peterson@cuanschutz.edu) or go to my [Research Gate](https://www.researchgate.net/profile/Ryan-Peterson-9) to request PDF versions of any of my papers.
+:::
+
+Some selected papers of mine are listed below.  
+
+::: {.panel-tabset}
+
+### Statistical methods + practice
+
+- Ryan Peterson, Max McGrath, Joseph Cavanaugh (2024). Can a Transparent Machine Learning Algorithm Predict Better than Its Black-Box Counterparts?: A Benchmarking Study using 110 Diverse Datasets. *Entropy*. [open access link](https://www.mdpi.com/1099-4300/26/9/746)
+
+- Ryan Peterson, Emily Slade, Gina-Maria Pomann, Walter T. Ambrosius (2024). Working well with statisticians: Perceptions of practicing statisticians on their most successful collaborations. *Stat*. [open access link](https://onlinelibrary.wiley.com/doi/10.1002/sta4.694) 
+
+- Raymond Pomponio, Bailey Fosdick, Julia Wrobel, Ryan Peterson (2025+). Mistaken identities lead to missed opportunities: Testing for mean differences in partially matched data. [preprint](https://arxiv.org/pdf/2312.14689.pdf)
+
+- Ryan Peterson, Joseph Cavanaugh (2024). Fast, effective, and coherent time series modelling using the sparsity-ranked lasso. *Statistical Modelling*. [preprint](https://www.arxiv.org/pdf/2211.01492.pdf) [open access link](https://journals.sagepub.com/doi/10.1177/1471082X231225307)
+
+- Ryan Peterson, Camille Hochheimer, Gary Grunwald, Rachel Johnson, Cheyret Wood, Mary Sammel (2022). Reaping what you SOW: Guidelines and Strategies for Writing Scopes of Work for Statistical Consulting. *Stat*. 2022;e496. [open access link](https://doi.org/10.1002/sta4.496)
+
+- Matthew Bolt, Sam MaWhinney, ..., Ryan Peterson (2022). Inference following multiple imputation for generalized additive models: an investigation of the median p-value rule with applications to the Pulmonary Hypertension Association Registry and Colorado COVID-19 hospitalization data. *BMC Medical Research Methodology*. 22:148. [open access link](https://doi.org/10.1186/s12874-022-01613-w)
+
+- Ryan Peterson, Joseph Cavanaugh (2022). Ranked sparsity: a cogent regularization framework for selecting and estimating feature interactions and polynomials. *AStA Advances in Statistical Analysis*. [author-shareable link](https://rdcu.be/d69ae) [preprint](https://arxiv.org/abs/2107.07594)
+
+- Ryan Peterson (2021). Finding Optimal Normalizing Transformations via bestNormalize. *The R Journal*. 13(1): 310-329.  [open access link](https://journal.r-project.org/dev/articles/RJ-2021-041/)
+
+- Ryan Peterson (2020). A Simple Aggregation Rule for Penalized Regression Coefficients after Multiple Imputation. *Journal of Data Science*. 19(1): 1-14. [open access link](https://jds-online.org/journal/JDS/article/106/info)
+
+- Ryan Peterson, Joseph Cavanaugh (2019). Ordered Quantile Normalization: A Semiparametric Transformation Built for the Cross-Validation Era. *Journal of Applied Statistics*. 1-16. [DOI](https://doi.org/10.1080/02664763.2019.1630372)
+
+- Jennifer Le-Rademacher, Ryan Peterson, Terry Therneau, Ben Sanford, Richard Stone, Sumithra Mandrekar (2018). Using Multistate Models in Cancer Clinical Trials. *Clinical Trials*. 15(5), 489-498. [DOI](https://doi.org/10.1177/1740774518789098)
+
+### Statistical applications 
+
+- Alyse Winchester (Staley), Ryan Peterson, Ellison Carter, Mary Sammel (2021). Impact of COVID-19 Social Distancing Policies on Traffic Congestion, Mobility, and NO2 Pollution. Sustainability. 13(13): 7275. [open access link](https://doi.org/10.3390/su13137275)
+
+- Richard Broadhurst, Ryan Peterson, …, Fernando Holguin (2020). Asthma in COVID-19 Hospitalizations: An Overestimated Risk Factor? Ann Am Thorac Soc, (12):1645-1648. [open access link](https://www.atsjournals.org/doi/10.1513/AnnalsATS.202006-613RL)
+
+- Meghan Althoff, Ryan Peterson, ..., Fernando Holguin (2023). Phenotypic characteristics of asthma and morbidity are associated with distinct longitudinal changes in L-arginine metabolism. BMJ Open Respiratory Research, 10(1):e001683. [DOI](https://doi.org/10.1136/bmjresp-2023-001683)
+
+- Aaron Miller, Ryan Peterson, Inder Singh, Sarah Pilewski, Philip Polgreen (2019). Improving State-Level Influenza Surveillance by Incorporating Real-Time Smartphone-Connected Thermometer Readings Across Different Geographic Domains. Open Forum Infectious Diseases, 6:11.
+
+- Ryan Peterson, Linnea Polgreen, Daniel Sewell, Philip Polgreen (2017). Warmer Weather as a Risk Factor for Cellulitis: A Population-based Investigation. Clinical Infectious Diseases, 487. 
+
+- Ryan Peterson, Linnea Polgreen, Joseph Cavanaugh, Philip Polgreen (2017). Increasing Incidence, Cost, and Seasonality in Patients Hospitalized for Cellulitis. Open Forum Infectious Diseases, 4.
+
+- Chris Anthony, Ryan Peterson, Daniel Sewell, Linnea Polgreen, Jacob Simmering, John Callaghan, Philip Polgreen (2017). The Seasonal Variability of Surgical Site Infections in Knee and Hip Arthroplasty. The Journal of Arthroplasty, 33, 510 - 514.e1.
+
+- Chris Anthony, Ryan Peterson, Linnea Polgreen, Daniel Sewell, Philip Polgreen (2017). The Seasonal Variability in Surgical Site Infections and the Association With Warmer Weather: A Population-Based Investigation. Infection Control & Hospital Epidemiology, 38, no. 7: 809–16.
+
+- Roula Zahr, Ryan Peterson, Linnea Polgreen, Joseph Cavanaugh, Douglas Hornick, Kevin Winthrop, Philip Polgreen (2016).  Diabetes as an increasingly common comorbidity among patient hospitalizations for tuberculosis in the USA. BMJ Open Diabetes Research & Care, 4:1.
+
+:::
+
+# Awards
+
+- ASA Statistical Consulting Section Best JSM Session Award, 2023
+- ACTStat Early Career Award in Clinical and Translational Science 2021
+- Best Paper Award, Journal of Applied Statistics, 2020
+- Best Poster Award, International Biometric Conference 2020 (Virtual)
+- Milford E. Barnes Award, University of Iowa, 2019
+- College of Public Health Board of Advisors Academic Award, University of Iowa, 2018
+- Leon F. Burmeister Graduate Service Award, University of Iowa, 2018
+- College of Public Health Research Week Poster Award, University of Iowa, 2018
+- Advancing Graduate Student Success Award, University of Iowa, 2018 
+- William R. Clarke Graduate Research Assistant Award, University of Iowa, 2017

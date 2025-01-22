@@ -1,0 +1,56 @@
+---
+title: "Speaking"
+output: html_document
+---
+
+# Workshops
+
+- **Statistical communication and leadership**. I developed the material for and taught the second day of this two-day in-person workshop at the University of Michigan through the [ABS Network](https://absnetwork.org/). This workshop was co-developed by [Paula Caproni](https://michiganross.umich.edu/faculty-research/faculty/paula-caproni) and [Mary Sammel](https://coloradosph.cuanschutz.edu/resources/directory/directory-profile/Sammel-Mary-UCD6003095529). See the [ad](https://us12.campaign-archive.com/?e=__test_email__&u=76594bec23960643f372c1059&id=a989fbf721) for more details. 
+
+::: {.column-margin}
+<img src="images/abn-logo.jpg" style="width:100%; margin-right:20px" align="left">
+:::
+
+- **Statistical communication and leadership**. With Paula Caproni and Mary Sammel, we adapted our workshop into a short-form, web-based course sponsored by the Quantitative Staff Network (QSN). I virtually led day 2 of this workshop in October 2024; more information available [here](https://mailchi.mp/527da02ca0fb/quantitative-scientific-staff-national-network-qs2n2-upcoming-webinar-15394242?e=5196b99255). 
+
+::: {.column-margin}
+<img src="images/qsn-logo.jpg" style="width:40%; margin-right:20px" align="left">
+:::
+
+- **Identifying and addressing research misconduct as a collaborative statistician**. I developed and led a 90-minute workshop for all collaborative statisticians attending the 2024 ACTStat annual meeting in Portland, Oregon.
+
+-	**Collaborator phenotyping**. I led focus groups on this topic at the 2022 ACTStat Annual Meeting consisting of two 1.5-hour sessions with 25 participants in Washington, D.C. These findings were later generalized and published [here](https://onlinelibrary.wiley.com/doi/10.1002/sta4.694). 
+
+::: {.column-margin}
+<img src="images/ACTStat-logo.jpg" style="width:60%; margin-right:20px" align="bottom">
+:::
+
+# Selected Presentations
+
+- **Role Play for Training Effective Statistical Leadership, Communication, and Collaboration**. JSM 2024 invited panel. Speakers (in order shown on the right): Heather Smith, Ryan Peterson, Emily Griffith, Julia Sharp, Mario Davidson, Eric Vance. 
+
+::: {.column-margin}
+<img src="images/RolePlay.Session_JSM2024.jpg" style="width:100%; margin-right:20px" align="left">
+:::
+
+- **Training the next generation of statistical consultants: Strategies, resources, and best practices**. Conference on Statistical Practice (CSP) 2024 invited panel. Speakers: Ryan Peterson, Alex Hanlon, Emily Griffith, Maggie Niu, Joseph Roith, Julia Sharp.  New Orleans, LA.
+
+- **Pragmatic Statistical Learning: From Data to Interpretable Insights**. Statistical Methods in Pragmatic Research Series. Adult & Child Center for Outcomes Research & Delivery Science (ACCORDS). March 2024, Aurora CO. 
+
+- **Strategies for Successfully Scoping and Tracking Collaborative Statistical Work**. Topic-contributed Panel at JSM 2023 with Alex Hanlon, Emily Griffith, Ryan Peterson, and Julia Sharp. Toronto, Ontario, Canada.
+
+-	**Detecting Interactions in R**.  National Center for Health Statistics and the Center for Disease Control. May 2023. Virtual.
+
+-	**Successful Approaches to Teaching Statistical Consulting**. Webinar Panel led by Julia Sharp and sponsored by the ASA Section on Teaching of Statistics in the Health Sciences Webinar. May 2023. Virtual. [Watch](https://www.youtube.com/watch?v=sFCD6BE8aLk).
+
+- **Selection tools for handling suspected signal heterogeneity in covariates with applications to interactions and high-dimensional time series**. Department of Biostatistics and Data Science, Wake Forest University School of Medicine. March 2023. Virtual. 
+
+-	**Reaping what you SOW: strategies for writing statistical scopes of work**. CSP 2023 invited panel. San Francisco, CA.  
+
+-	**An Introduction to Biomedical Applications of Big Data, Machine Learning, and Artificial Intelligence**. Big Data Seminar Series, Colorado Clinical and Translational Science Institute, University of Colorado. November 2022. Virtual.  
+
+-	**Aggregating penalized regression coefficients after multiple imputation for urgent and effective prediction of intubation in patients with severe COVID-19**. Early Career Award winner presentation at ACTStat 2021 Annual Meeting. Washington, D.C. Virtual. 
+
+- **"But what about interactions, are any of those significant?" Resolving the collaborative nightmare of covariate interactions using regularization**. International Biometric Conference, 2020. Virtual. (Contributed poster; won Best Poster Award)  
+
+-	**Predictive Modeling:  From Simple to Complex and Transparent to Opaque, A Debate of Two Extremes**. Department of Biostatistics & Informatics, Colorado School of Public Health, University of Colorado. November 2019, Aurora CO. (Forced to argue in favor of black-box models!)

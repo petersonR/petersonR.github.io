@@ -1,0 +1,14 @@
+---
+title: About me
+---
+
+::: {.column-margin}
+<img src="images/pic-of-me.jpg" style="width:80%; margin-right:20px" align="center">
+:::
+
+I am an Assistant Professor of Biostatistics and Informatics at the [Colorado School of Public Health](http://www.ucdenver.edu/academics/colleges/PublicHealth/Pages/default.aspx) on the [University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/). I work collaboratively within the [Center for Innovative Design and Analysis](cida.ucdenver.edu) and serve as the Director of the [Pulmonary Translational Biostatistics & Bioinformatics Core](https://medschool.cuanschutz.edu/pulmonary/research/ptrac). 
+
+My methodological research interests include model selection, model transparency/interpretability, methods for missing data, statistical computation, data preprocessing, and post-selection inference. Additionally, I enjoy writing and thinking about best practices for statistical collaboration, and I have developed a curriculum for training the next generation of statistical practitioners. When I'm not researching or teaching, I enjoy spending time with my hilarious kids, playing disc golf, attending live concerts, going out for pizza, and hiking in the mountains. 
+
+I currently serve as the Chair-Elect of the American Statistical Association's Statistical Consulting Section (2025-2027). This year (2025) I plan to attend the Translational Science 2025 conference (Washington D.C), the Joint Statistical Meetings (JSM 2025) in Nashville, and the Association for Clinical and Translational Statisticians (ACTStat) pre-JSM Meeting.  Feel free to reach out if you'd like to connect. 
+

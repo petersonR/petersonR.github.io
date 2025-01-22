@@ -1,0 +1,30 @@
+project: 
+  type: website 
+  
+website: 
+  title: "Ryan A. Peterson"
+  navbar:
+    left:
+      - text: "Research"
+        href: research.qmd
+      - text: "Speaking"
+        href: speaking.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Software"
+        href: software.qmd
+      - text: "Other"
+        href: other.qmd
+    right:
+      - icon: fa-github fa-lg
+        href: http://github.com/petersonR
+      - icon: fa-twitter fa-lg
+        href: https://twitter.com/ryan_peterson1
+      - icon: fa-linkedin fa-lg
+        href: https://www.linkedin.com/in/ryan-peterson-b9234b68/
+
+format:
+  html:
+    theme: yeti
+    include-after-body: 
+      - footer.html
