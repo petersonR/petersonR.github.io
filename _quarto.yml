@@ -1,5 +1,6 @@
 project: 
   type: website 
+  output-dir: docs
   
 website: 
   title: "Ryan A. Peterson"
@@ -25,6 +26,6 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme: yetigg
     include-after-body: 
       - footer.html

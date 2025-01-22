@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other",
+    "section": "",
+    "text": "I infrequently post blogs to Data Diction. So far I’ve posted about Denver’s “Zero Fare for Better Air” policy (whether it actually worked), and a how-to for selecting interactions and polynomials, but I hope to continue finding interesting applications of data that I can write about there more freely than I can in academic journals. Please contact me if you are interested in writing a post for this blog, or collaborating on a piece."
+  },
+  {
+    "objectID": "other.html#data-diction-blog",
+    "href": "other.html#data-diction-blog",
+    "title": "Other",
+    "section": "",
+    "text": "I infrequently post blogs to Data Diction. So far I’ve posted about Denver’s “Zero Fare for Better Air” policy (whether it actually worked), and a how-to for selecting interactions and polynomials, but I hope to continue finding interesting applications of data that I can write about there more freely than I can in academic journals. Please contact me if you are interested in writing a post for this blog, or collaborating on a piece."
+  },
+  {
+    "objectID": "other.html#statctr",
+    "href": "other.html#statctr",
+    "title": "Other",
+    "section": "StatCTR",
+    "text": "StatCTR\nThe Statistical Consulting Training Repository includes indexed, vetted videos and online resources. I collaborated with Julia Sharp and Emily Griffith to build this resource and have recently integrated it within the American Statistical Association’s Statistical Consulting Section."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am an Assistant Professor of Biostatistics and Informatics at the Colorado School of Public Health on the University of Colorado Anschutz Medical Campus. I work collaboratively within the Center for Innovative Design and Analysis and serve as the Director of the Pulmonary Translational Biostatistics & Bioinformatics Core.\nMy methodological research interests include model selection, model transparency/interpretability, methods for missing data, statistical computation, data preprocessing, and post-selection inference. Additionally, I enjoy writing and thinking about best practices for statistical collaboration, and I have developed a curriculum for training the next generation of statistical practitioners. When I’m not researching or teaching, I enjoy spending time with my hilarious kids, playing disc golf, attending live concerts, going out for pizza, and hiking in the mountains.\nI currently serve as the Chair-Elect of the American Statistical Association’s Statistical Consulting Section (2025-2027). This year (2025) I plan to attend the Translational Science 2025 conference (Washington D.C), the Joint Statistical Meetings (JSM 2025) in Nashville, and the Association for Clinical and Translational Statisticians (ACTStat) pre-JSM Meeting. Feel free to reach out if you’d like to connect."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Model selection\nPost-selection inference\nData preprocessing and visualization\nTransparent statistical and machine learning\nHigh-dimensional regression methods\nMethods for missing data\nStatistical computing\nBest practices for interdisciplinary team science"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Model selection\nPost-selection inference\nData preprocessing and visualization\nTransparent statistical and machine learning\nHigh-dimensional regression methods\nMethods for missing data\nStatistical computing\nBest practices for interdisciplinary team science"
+  },
+  {
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\n\n\n\nNote\n\n\n\nMy most up-to-date list of publications is available on my ORCID page or Google Scholar. Please contact me or go to my Research Gate to request PDF versions of any of my papers.\n\n\nSome selected papers of mine are listed below.\n\nStatistical methods + practiceStatistical applications\n\n\n\nRyan Peterson, Max McGrath, Joseph Cavanaugh (2024). Can a Transparent Machine Learning Algorithm Predict Better than Its Black-Box Counterparts?: A Benchmarking Study using 110 Diverse Datasets. Entropy. open access link\nRyan Peterson, Emily Slade, Gina-Maria Pomann, Walter T. Ambrosius (2024). Working well with statisticians: Perceptions of practicing statisticians on their most successful collaborations. Stat. open access link\nRaymond Pomponio, Bailey Fosdick, Julia Wrobel, Ryan Peterson (2025+). Mistaken identities lead to missed opportunities: Testing for mean differences in partially matched data. preprint\nRyan Peterson, Joseph Cavanaugh (2024). Fast, effective, and coherent time series modelling using the sparsity-ranked lasso. Statistical Modelling. preprint open access link\nRyan Peterson, Camille Hochheimer, Gary Grunwald, Rachel Johnson, Cheyret Wood, Mary Sammel (2022). Reaping what you SOW: Guidelines and Strategies for Writing Scopes of Work for Statistical Consulting. Stat. 2022;e496. open access link\nMatthew Bolt, Sam MaWhinney, …, Ryan Peterson (2022). Inference following multiple imputation for generalized additive models: an investigation of the median p-value rule with applications to the Pulmonary Hypertension Association Registry and Colorado COVID-19 hospitalization data. BMC Medical Research Methodology. 22:148. open access link\nRyan Peterson, Joseph Cavanaugh (2022). Ranked sparsity: a cogent regularization framework for selecting and estimating feature interactions and polynomials. AStA Advances in Statistical Analysis. author-shareable link preprint\nRyan Peterson (2021). Finding Optimal Normalizing Transformations via bestNormalize. The R Journal. 13(1): 310-329. open access link\nRyan Peterson (2020). A Simple Aggregation Rule for Penalized Regression Coefficients after Multiple Imputation. Journal of Data Science. 19(1): 1-14. open access link\nRyan Peterson, Joseph Cavanaugh (2019). Ordered Quantile Normalization: A Semiparametric Transformation Built for the Cross-Validation Era. Journal of Applied Statistics. 1-16. DOI\nJennifer Le-Rademacher, Ryan Peterson, Terry Therneau, Ben Sanford, Richard Stone, Sumithra Mandrekar (2018). Using Multistate Models in Cancer Clinical Trials. Clinical Trials. 15(5), 489-498. DOI\n\n\n\n\nAlyse Winchester (Staley), Ryan Peterson, Ellison Carter, Mary Sammel (2021). Impact of COVID-19 Social Distancing Policies on Traffic Congestion, Mobility, and NO2 Pollution. Sustainability. 13(13): 7275. open access link\nRichard Broadhurst, Ryan Peterson, …, Fernando Holguin (2020). Asthma in COVID-19 Hospitalizations: An Overestimated Risk Factor? Ann Am Thorac Soc, (12):1645-1648. open access link\nMeghan Althoff, Ryan Peterson, …, Fernando Holguin (2023). Phenotypic characteristics of asthma and morbidity are associated with distinct longitudinal changes in L-arginine metabolism. BMJ Open Respiratory Research, 10(1):e001683. DOI\nAaron Miller, Ryan Peterson, Inder Singh, Sarah Pilewski, Philip Polgreen (2019). Improving State-Level Influenza Surveillance by Incorporating Real-Time Smartphone-Connected Thermometer Readings Across Different Geographic Domains. Open Forum Infectious Diseases, 6:11.\nRyan Peterson, Linnea Polgreen, Daniel Sewell, Philip Polgreen (2017). Warmer Weather as a Risk Factor for Cellulitis: A Population-based Investigation. Clinical Infectious Diseases, 487.\nRyan Peterson, Linnea Polgreen, Joseph Cavanaugh, Philip Polgreen (2017). Increasing Incidence, Cost, and Seasonality in Patients Hospitalized for Cellulitis. Open Forum Infectious Diseases, 4.\nChris Anthony, Ryan Peterson, Daniel Sewell, Linnea Polgreen, Jacob Simmering, John Callaghan, Philip Polgreen (2017). The Seasonal Variability of Surgical Site Infections in Knee and Hip Arthroplasty. The Journal of Arthroplasty, 33, 510 - 514.e1.\nChris Anthony, Ryan Peterson, Linnea Polgreen, Daniel Sewell, Philip Polgreen (2017). The Seasonal Variability in Surgical Site Infections and the Association With Warmer Weather: A Population-Based Investigation. Infection Control & Hospital Epidemiology, 38, no. 7: 809–16.\nRoula Zahr, Ryan Peterson, Linnea Polgreen, Joseph Cavanaugh, Douglas Hornick, Kevin Winthrop, Philip Polgreen (2016). Diabetes as an increasingly common comorbidity among patient hospitalizations for tuberculosis in the USA. BMJ Open Diabetes Research & Care, 4:1."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Courses/Teaching",
+    "section": "",
+    "text": "Course\nYear(s) Taught\nCourse Number\nDescription\n\n\n\n\nModel Selection\n2023\nBIOS 7722 (PhD Elective)\nThis course surveys methods for choosing an optimal statistical model in biostatistical and public health applications. Topics include: Occam’s Razor, information theoretic measures, asymptotic efficiency vs consistency, prediction vs description, overfitting, the bias/variance tradeoff, model evaluation, model validation, variable selection algorithms, model averaging/ensembles, and computer-intensive model evaluation.\n\n\nStatistical Consulting\n2020-2024\nBIOS 6621\nStudents gain experience with statistical consulting and common statistical problems encountered in consulting through examples and consultations with investigators. Emphasis is on methods for effective consulting and communication with investigators.\n\n\nApplied Biostatistics II\n2021-2022\nBIOS 6602\nThis course extends basic principles of descriptive and inferential statistics (BIOS 6601) to examine more complex relationships/models, including linear regression, logistic regression, model selection, survival analysis, and more."
+  },
+  {
+    "objectID": "teaching.html#university-of-colorado-department-of-biostatistics-informatics",
+    "href": "teaching.html#university-of-colorado-department-of-biostatistics-informatics",
+    "title": "Courses/Teaching",
+    "section": "",
+    "text": "Course\nYear(s) Taught\nCourse Number\nDescription\n\n\n\n\nModel Selection\n2023\nBIOS 7722 (PhD Elective)\nThis course surveys methods for choosing an optimal statistical model in biostatistical and public health applications. Topics include: Occam’s Razor, information theoretic measures, asymptotic efficiency vs consistency, prediction vs description, overfitting, the bias/variance tradeoff, model evaluation, model validation, variable selection algorithms, model averaging/ensembles, and computer-intensive model evaluation.\n\n\nStatistical Consulting\n2020-2024\nBIOS 6621\nStudents gain experience with statistical consulting and common statistical problems encountered in consulting through examples and consultations with investigators. Emphasis is on methods for effective consulting and communication with investigators.\n\n\nApplied Biostatistics II\n2021-2022\nBIOS 6602\nThis course extends basic principles of descriptive and inferential statistics (BIOS 6601) to examine more complex relationships/models, including linear regression, logistic regression, model selection, survival analysis, and more."
+  },
+  {
+    "objectID": "teaching.html#university-of-iowa-department-of-biostatistics",
+    "href": "teaching.html#university-of-iowa-department-of-biostatistics",
+    "title": "Courses/Teaching",
+    "section": "University of Iowa, Department of Biostatistics",
+    "text": "University of Iowa, Department of Biostatistics\n\nCourse Instructor, Introduction to Biostatistics (2015 & 2018)\nGraduate Teaching Assistant, Categorical Data Analysis (2018)\nGraduate Teaching Assistant, Introduction to Biostatistics (2014 – 2015)"
+  },
+  {
+    "objectID": "teaching.html#st.-olaf-college",
+    "href": "teaching.html#st.-olaf-college",
+    "title": "Courses/Teaching",
+    "section": "St. Olaf College",
+    "text": "St. Olaf College\n\nMath Clinic Tutor, Academic Support Center (2013)\nTeaching Assistant, Game Theory (2012)"
+  },
+  {
+    "objectID": "speaking.html",
+    "href": "speaking.html",
+    "title": "Speaking",
+    "section": "",
+    "text": "Workshops\n\nStatistical communication and leadership. I developed the material for and taught the second day of this two-day in-person workshop at the University of Michigan through the ABS Network. This workshop was co-developed by Paula Caproni and Mary Sammel. See the ad for more details.\n\n\n\n\n\nStatistical communication and leadership. With Paula Caproni and Mary Sammel, we adapted our workshop into a short-form, web-based course sponsored by the Quantitative Staff Network (QSN). I virtually led day 2 of this workshop in October 2024; more information available here.\n\n\n\n\n\nIdentifying and addressing research misconduct as a collaborative statistician. I developed and led a 90-minute workshop for all collaborative statisticians attending the 2024 ACTStat annual meeting in Portland, Oregon.\nCollaborator phenotyping. I led focus groups on this topic at the 2022 ACTStat Annual Meeting consisting of two 1.5-hour sessions with 25 participants in Washington, D.C. These findings were later generalized and published here.\n\n\n\n\n\n\nSelected Presentations\n\nRole Play for Training Effective Statistical Leadership, Communication, and Collaboration. JSM 2024 invited panel. Speakers (in order shown on the right): Heather Smith, Ryan Peterson, Emily Griffith, Julia Sharp, Mario Davidson, Eric Vance.\n\n\n\n\n\nTraining the next generation of statistical consultants: Strategies, resources, and best practices. Conference on Statistical Practice (CSP) 2024 invited panel. Speakers: Ryan Peterson, Alex Hanlon, Emily Griffith, Maggie Niu, Joseph Roith, Julia Sharp. New Orleans, LA.\nPragmatic Statistical Learning: From Data to Interpretable Insights. Statistical Methods in Pragmatic Research Series. Adult & Child Center for Outcomes Research & Delivery Science (ACCORDS). March 2024, Aurora CO.\nStrategies for Successfully Scoping and Tracking Collaborative Statistical Work. Topic-contributed Panel at JSM 2023 with Alex Hanlon, Emily Griffith, Ryan Peterson, and Julia Sharp. Toronto, Ontario, Canada.\nDetecting Interactions in R. National Center for Health Statistics and the Center for Disease Control. May 2023. Virtual.\nSuccessful Approaches to Teaching Statistical Consulting. Webinar Panel led by Julia Sharp and sponsored by the ASA Section on Teaching of Statistics in the Health Sciences Webinar. May 2023. Virtual. Watch.\nSelection tools for handling suspected signal heterogeneity in covariates with applications to interactions and high-dimensional time series. Department of Biostatistics and Data Science, Wake Forest University School of Medicine. March 2023. Virtual.\nReaping what you SOW: strategies for writing statistical scopes of work. CSP 2023 invited panel. San Francisco, CA.\nAn Introduction to Biomedical Applications of Big Data, Machine Learning, and Artificial Intelligence. Big Data Seminar Series, Colorado Clinical and Translational Science Institute, University of Colorado. November 2022. Virtual.\nAggregating penalized regression coefficients after multiple imputation for urgent and effective prediction of intubation in patients with severe COVID-19. Early Career Award winner presentation at ACTStat 2021 Annual Meeting. Washington, D.C. Virtual.\n“But what about interactions, are any of those significant?” Resolving the collaborative nightmare of covariate interactions using regularization. International Biometric Conference, 2020. Virtual. (Contributed poster; won Best Poster Award)\nPredictive Modeling: From Simple to Complex and Transparent to Opaque, A Debate of Two Extremes. Department of Biostatistics & Informatics, Colorado School of Public Health, University of Colorado. November 2019, Aurora CO. (Forced to argue in favor of black-box models!)"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Open-source statistical software",
+    "section": "",
+    "text": "Estimating Optimal Normalization Transformations with bestNormalize. Available on CRAN and GitHub.\nRanked sparsity via sparseR. Available on CRAN or GitHub.\nFast seasonal time series modeling with fastTS. Available on CRAN or GitHub.\nThe Multistate Simulation Designer; An Open-Source shiny Application. GitHub\nA Decision Support System for Parkinson’s Clinical Trials Design and shiny Application. This was joint work with Brian Smith, Brandon Butcher, and Stephanie Lussier for the Parkinson’s Progression Markers Initiative as a part of the Michael J. Fox Foundation’s 2016 data challenge). GitHub\nParkinson’s Disease Rate Predictor shiny Application. GitHub"
+  }
+]
